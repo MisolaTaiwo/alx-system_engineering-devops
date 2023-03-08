@@ -1,1 +1,1 @@
-where am i
+echo 'where am i'
